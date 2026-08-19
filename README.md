@@ -1,0 +1,6 @@
+- Maria Eugenia Luzzi
+- Mi Coleccion
+- Coleccion Antigua
+- Selecioné una coleccióon propia, es antigua y de mi propia autoria.
+- Mostrar antiguedades.
+- Se muestran diferentes artículos que están disponibles, se pede ver en la seccion principal un acceso a una página web que dispone diferentes tipos de artículos.

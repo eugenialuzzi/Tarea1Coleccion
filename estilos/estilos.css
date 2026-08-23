@@ -1,0 +1,52 @@
+        header{
+                background-color:rgb(117, 222, 170);
+                color: aliceblue;
+                padding: 10px;
+                height: 200px;
+            }
+
+            main{
+                padding: 20px;
+            }
+
+            footer{
+                background-color: rgb(117, 222, 170);
+                color: rgb(13, 78, 135);
+                padding: 10px;
+                text-align: center;
+                font-size: 20px;
+            }
+            .foto{
+                width: 540px;
+                height: auto;
+                display: block;
+                text-align: center;
+            }
+            .barramenu{
+                background-color: rgb(91, 136, 137);
+                color: rgb(46, 31, 31);
+                font-size: 20px;
+                display: block;
+            }
+            .botonmenu{
+                background-color: rgb(132, 129, 195);
+                color: gray;
+                border: 2px solid black;
+                padding: 5px;
+                text-align: center;
+                font-size: 20px;
+                margin: 5px;
+                width: 200px;
+                list-style-type: none;
+            }
+            .titulo {
+                font-size: 30px;
+                color: blueviolet;
+
+            }
+
+            .subtitulo{
+               font-size: 20px;
+                color: rgb(90, 57, 122);
+ 
+            }

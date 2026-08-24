@@ -4,3 +4,5 @@
 - Selecioné una coleccióon propia, es antigua y de mi propia autoria.
 - Mostrar antiguedades.
 - Se muestran diferentes artículos que están disponibles, se pede ver en la seccion principal un acceso a una página web que dispone diferentes tipos de artículos.
+- La fuente elegida es Arial, Helvetica, sans-serif.
+- Los colores verdes, azul, violeta y para el body un fondo claro. 
